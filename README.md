@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-icon.svg" alt="Plagiarism Checker System" width="140" />
+  <img src="plagiarism_checker_app/public/assets/images/logo-icon.svg" alt="Plagiarism Checker System" width="140" />
 </p>
 
 <h1 align="center">Plagiarism Checker System</h1>
