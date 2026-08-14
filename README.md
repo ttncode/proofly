@@ -19,7 +19,7 @@
 
 ## 🧰 Tech Stack
 
-Flask · Laravel · MySQL · Milvus · Docker · Docker Compose · phpMyAdmin · Attu
+PHP · Python · Flask · Laravel · MySQL · Milvus · Docker · Docker Compose · phpMyAdmin · Attu
 
 ## Prerequisites
 
